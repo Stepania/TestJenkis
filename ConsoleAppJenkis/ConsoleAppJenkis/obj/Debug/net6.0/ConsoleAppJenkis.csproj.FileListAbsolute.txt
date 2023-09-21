@@ -1,0 +1,14 @@
+C:\Users\1989s\source\repos\ConsoleAppJenkis\ConsoleAppJenkis\obj\Debug\net6.0\ConsoleAppJenkis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1989s\source\repos\ConsoleAppJenkis\ConsoleAppJenkis\obj\Debug\net6.0\ConsoleAppJenkis.AssemblyInfoInputs.cache
+C:\Users\1989s\source\repos\ConsoleAppJenkis\ConsoleAppJenkis\obj\Debug\net6.0\ConsoleAppJenkis.AssemblyInfo.cs
+C:\Users\1989s\source\repos\ConsoleAppJenkis\ConsoleAppJenkis\obj\Debug\net6.0\ConsoleAppJenkis.csproj.CoreCompileInputs.cache
+C:\Users\1989s\source\repos\ConsoleAppJenkis\ConsoleAppJenkis\bin\Debug\net6.0\ConsoleAppJenkis.exe
+C:\Users\1989s\source\repos\ConsoleAppJenkis\ConsoleAppJenkis\bin\Debug\net6.0\ConsoleAppJenkis.deps.json
+C:\Users\1989s\source\repos\ConsoleAppJenkis\ConsoleAppJenkis\bin\Debug\net6.0\ConsoleAppJenkis.runtimeconfig.json
+C:\Users\1989s\source\repos\ConsoleAppJenkis\ConsoleAppJenkis\bin\Debug\net6.0\ConsoleAppJenkis.dll
+C:\Users\1989s\source\repos\ConsoleAppJenkis\ConsoleAppJenkis\bin\Debug\net6.0\ConsoleAppJenkis.pdb
+C:\Users\1989s\source\repos\ConsoleAppJenkis\ConsoleAppJenkis\obj\Debug\net6.0\ConsoleAppJenkis.dll
+C:\Users\1989s\source\repos\ConsoleAppJenkis\ConsoleAppJenkis\obj\Debug\net6.0\refint\ConsoleAppJenkis.dll
+C:\Users\1989s\source\repos\ConsoleAppJenkis\ConsoleAppJenkis\obj\Debug\net6.0\ConsoleAppJenkis.pdb
+C:\Users\1989s\source\repos\ConsoleAppJenkis\ConsoleAppJenkis\obj\Debug\net6.0\ConsoleAppJenkis.genruntimeconfig.cache
+C:\Users\1989s\source\repos\ConsoleAppJenkis\ConsoleAppJenkis\obj\Debug\net6.0\ref\ConsoleAppJenkis.dll
